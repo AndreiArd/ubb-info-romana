@@ -1,4 +1,4 @@
-#### REZUMAT GENERAL PE TOATE
+# LUCRURI IMPORTANTE DIN TOATE
 
 # 01_ML_intro.pdf — Introducere în ML / Sisteme Inteligente**  
 
