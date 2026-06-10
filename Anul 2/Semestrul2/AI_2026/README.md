@@ -1,3 +1,28 @@
+# Cursuri Inteligență Artificială — UBB Anul 2
+
+## Studiat temeinic
+- **Curs 2** — Least Squares, Gradient Descent & Regresie Logistică
+- **Curs 4** — Rețele Neuronale Artificiale (ANN + CNN)
+- **Curs 11b** — Algoritmi Evolutivi, PSO, ACO
+
+## Parcurs din .md
+- **Curs 1** — Introducere în Machine Learning & Sisteme Inteligente
+- **Curs 3** — Mașini cu Suport Vectorial (SVM)
+- **Curs 6** — AI Generativă & Large Language Models
+- **Curs 12** — Arbori de Decizie
+
+## La urmă
+- **Curs 5** — Reprezentări Numerice ale Datelor în ML
+- **Curs 7** — Transformer (arhitectură detaliată)
+- **Curs 8** — RAG (Retrieval-Augmented Generation)
+- **Curs 9** — Reinforcement Learning
+- **Curs 10** — AI Agents
+- **Curs 11** — Căutare Neinformată
+- **Curs 13** — Fairness in AI                  
+
+##
+
+
 # LUCRURI IMPORTANTE DIN TOATE
 
 # 01_ML_intro.pdf — Introducere în ML / Sisteme Inteligente**  
