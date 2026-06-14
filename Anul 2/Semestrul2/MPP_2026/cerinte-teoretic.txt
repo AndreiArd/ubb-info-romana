@@ -1,0 +1,51 @@
+subiect 2024-1
+
+1. explicati cum functioneaza sablonul 
+proxy distribuit 
+2. descrieti modelul publish-subscribe 
+din comunicarea asincrona
+
+subiect 2024-2
+1. explicati ce intelegeti prin inversion of control (IoC)
+2. descrieti tehnica ORM pentru maparea
+membrilor statici
+
+subiect 1 2023
+1. descrieti o tehnica ORM pentru maparea mostenirii
+2. descrieti structura unui token JWT
+
+subiect 2 2023
+1. explicati cum functioneaza proxy distribuit
+2. descrieti modelul publish-subscribe din comunicarea asincrona
+
+subiect 3 2023
+1. explicati conceptul de dependency injection
+2. descrieti o tehnica orm pentru maparea membrilor statici 
+
+subiect 4 2023
+1. explicati termenul ORM Impedance mismatch
+2. explicati modelul point-to-point din comunicarea asincrona
+
+subiect 4 2024
+1. explicati cum functioneaza protocolul websocket
+2. explicati sablonul data transfer object
+
+subiect 5 2024 
+1. explicati modelul point-to-point a comunicarii asincrone
+2. explicati termenul ORM Impedance mismatch
+
+1.jpg
+1. explicati ce intelegeti printr un broker de mesaje
+
+2.jpg
+1. descrieti o tehnica ORM pentru maparea mostenirii
+
+3.jpg
+1. explicati constrangerea stateless a unei arhitecturi REST
+
+4.
+1. explicati ce intelegeti prin inversion of Control (Ioc)
+
+5.jpg
+
+1. descrieti o tehnica ORM pentru membrii statici
